@@ -8,10 +8,5 @@ public class Esercizio3 {
 
     }
 
-    public static String[] While(String str){
-        int i = 0;
-        while (i<)
 
-
-    }
 }
